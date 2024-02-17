@@ -1,2 +1,2 @@
 # DGelectric
-Sitio web de un taller integral en la ciudad de Còrdib Capital, Republica Argentina
+Sitio web de taller integral de reparaciones automotriz en la ciudad de Còrdiba Capital, Republica Argentina
